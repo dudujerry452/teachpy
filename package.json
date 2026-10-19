@@ -1,0 +1,9 @@
+{
+  "name": "teach-python-skill",
+  "version": "1.0.0",
+  "description": "Zero-based Python teaching skill (manual-only): language-agnostic mental models, no unexplained jargon, 12 graded exercises.",
+  "keywords": ["pi-package"],
+  "pi": {
+    "skills": ["./.pi/skills"]
+  }
+}

@@ -1,0 +1,10 @@
+# 运行时状态（教学进度 + 学员练习代码，不进 git）
+.pi/state/
+
+# Python
+__pycache__/
+*.pyc
+
+# 其他
+.DS_Store
+node_modules/
