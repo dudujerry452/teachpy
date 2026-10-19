@@ -5,6 +5,6 @@
   "keywords": ["pi-package"],
   "pi": {
     "skills": ["./.pi/skills"],
-    "extensions": ["./.pi/extensions"]
+    "extensions": ["./extensions"]
   }
 }
